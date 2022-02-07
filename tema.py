@@ -1,5 +1,6 @@
 import os
-os.system('cd') 
+os.system('cd')
+os.system('cd')
 os.system('cd ../usr/etc')
 os.system('rm -rf bash.bashrc')
 isim = input('İsim yaz >>> ')
