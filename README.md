@@ -1,3 +1,4 @@
 # basit-styling
-Calıştırma
+Calıştırma>>>
+
 cd basit-styling&&python tema.py
