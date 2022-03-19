@@ -3,7 +3,7 @@ Calıştırma>>>
 
 KURULUM  🔻
 
-git clone https://github.com/cakmahacker/basit-styling/edit/main/README.md
+git clone https://github.com/cakmahacker/basit-styling/
 
 
 ÇALIŞTIRMA 🔻
