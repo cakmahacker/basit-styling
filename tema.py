@@ -44,6 +44,9 @@ ara = """
 
 """
 ##########################
+#coded by Cakma_H4CK3R
+#coded by Cakma_H4CK3R
+##########################
 tgn = input('Tg nick » ')
 #
 beyaz = '''
