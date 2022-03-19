@@ -3,4 +3,4 @@ Calıştırma>>>
 
 cd basit-styling&&python tema.py
 
-çalışmayabilir
+çalışmayabilir daha bitmedi
