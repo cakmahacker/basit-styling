@@ -54,7 +54,7 @@ printf "\e[37m\e[40m"
 
 '''
 #
-ec = "echo           Telelgram ⌲ ⌲ ⌲ "
+ec = "echo           Telegram ⌲ ⌲ ⌲ "
 
 
 tam = """
