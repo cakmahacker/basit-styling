@@ -1,6 +1,8 @@
-# basit-styling
+# güncelleme 19.03.2022
 Calıştırma>>>
 
 cd basit-styling&&python tema.py
 
-çalışmayabilir daha bitmedi
+Hatalar kaldırıldı
+yeni temayı sorunsuzca
+kullanabilirsiniz :) 
