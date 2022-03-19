@@ -32,7 +32,7 @@ shopt -s histappend
 shopt -s histverify
 export HISTCONTROL=ignoreboth
 PROMPT_DIRTRIM=2
-PS1='\[\e[1;40m\]┌(\[\e[1;31m\]Termux@localhost\e[0m\]\[\e[1;40m\])-[\[\e[1;32m\]\w\[\e[0m\]]\[\e[0;97m\]\[\e[1;35m\]\033[44;37;5m Dizin \033[0m
+PS1='\[\e[1;40m\]┌(\[\e[1;31m\]termux@localhost\e[0m\]\[\e[1;40m\])-[\[\e[1;32m\]\w\[\e[0m\]]\[\e[0;97m\]\[\e[1;35m\]\033[44;37;5m Dizin \033[0m
 └\[\e[1;40m\]\$\[\e[0m\] \[\e[1;36m\]'
 printf "\e[40m\e[31m"
 
