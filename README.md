@@ -1,4 +1,9 @@
 # güncelleme 19.03.2022
+# güncelleme 25.03.2022
+eski versiyon kullananı yeni versiyona atar 
+kullanılmasını önermem ileride düzelticem
+ 
+
 Calıştırma>>>
 
 KURULUM  🔻
@@ -12,5 +17,5 @@ cd basit-styling&&python tema.py
 
 
 Hatalar kaldırıldı
-yeni temayı sorunsuzca
+yeni versiyonu sorunsuzca
 kullanabilirsiniz :) 
