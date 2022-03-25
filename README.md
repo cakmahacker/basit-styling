@@ -4,14 +4,14 @@ eski versiyon kullananı yeni versiyona atar
 kullanılmasını önermem ileride düzelticem
  
 
-Calıştırma>>>
+Kurulum & Calıştırma
 
-KURULUM  🔻
+# KURULUM  🔻
 
 git clone https://github.com/cakmahacker/basit-styling
 
 
-ÇALIŞTIRMA 🔻
+# ÇALIŞTIRMA 🔻
 
 cd basit-styling&&python tema.py
 
