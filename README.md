@@ -8,12 +8,12 @@ Kurulum & Calıştırma
 
 # KURULUM  🔻
 
-git clone https://github.com/cakmahacker/basit-styling
+`git clone https://github.com/cakmahacker/basit-styling`
 
 
 # ÇALIŞTIRMA 🔻
 
-cd basit-styling&&python tema.py
+```cd basit-styling&&python tema.py```
 
 
 Hatalar kaldırıldı
