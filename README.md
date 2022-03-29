@@ -15,10 +15,17 @@ kullanılmasını önermem ileride düzelticem
     git clone https://github.com/cakmahacker/basit-styling
 
 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
 # ÇALIŞTIRMA 🔻:
 
 
     cd basit-styling&&python tema.py
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 
