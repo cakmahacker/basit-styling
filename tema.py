@@ -6,6 +6,8 @@ import time
 from colorama import Fore, Back, Style
 from termcolor import colored
 
+
+
 os.system('clear')
 
 class bcolors:
@@ -24,6 +26,7 @@ print(f"""
    
     {bcolors.KIRMIZI}[{bcolors.YESIL}01{bcolors.KIRMIZI}]{bcolors.BEYAZ}Styling oluştur...
     {bcolors.KIRMIZI}[{bcolors.YESIL}02{bcolors.KIRMIZI}]{bcolors.BEYAZ}Eski temayı geri yükle...
+    {bcolors.KIRMIZI}[{bcolors.YESIL}03{bcolors.KIRMIZI}]{bcolors.BEYAZ}Güncelle (GitHub)
 
 """)
 
@@ -150,7 +153,7 @@ if secim=="01":
 ##########################
         print()
         print()
-        print(f'''{bcolors.MAVI}Sosyal medya bırak {bcolors.SARI}örn{bcolors.KIRMIZI}({bcolors.SARI} Instagram @cakma_hack3r {bcolors.KIRMIZI}) ''')
+        print(f'''{bcolors.MAVI}Sosyal medya bırak {bcolors.SARI}örn{bcolors.KIRMIZI}({bcolors.SARI}Instagram @cakma_hack3r{bcolors.KIRMIZI}) ''')
         print()
         tgn = input(f'{bcolors.MAVI}Sosyal medya{bcolors.BEYAZ} »{bcolors.PEMBE} ')
 #
@@ -266,7 +269,17 @@ if secim=="02":
         annaaa= input('    Ana menü için ¦ENTER¦')
         os.system('python3 tema.py')
 
+if secim=="03":
+    print (f"""
 
+    {bcolors.SARI}[ {bcolors.YESIL}!{bcolors.SARI} ] {bcolors.BEYAZ} Güncelleme başlatılıyor...""")
+    time.sleep(3)
+    os.system('rm -rf /data/data/com.termux/files/home/basit-styling/tema.py&&curl -L -O https://github.com/cakmahacker/basit-styling/raw/main/tema.py')
+    print (f"""
+    {bcolors.SARI}[ {bcolors.YESIL}✓{bcolors.SARI} ] {bcolors.BEYAZ} Güncelleme bitti.""")
+    time.sleep(3)
+    annaaa= input('    yeniden başlatmak için ¦ENTER¦')
+    os.system('python3 tema.py')
 else:
     print (f"""
 
