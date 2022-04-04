@@ -150,7 +150,7 @@ if secim=="01":
 ##########################
         print()
         print()
-        print(f'''{bcolors.MAVI}Sosyal medya bırak {bcolors.SARI}örn{bcolors.KIRMIZI}({bcolors.SARI}Instagram @cakma_hack3r{bcolors.KIRMIZI}) ''')
+        print(f'''{bcolors.MAVI}Sosyal medya bırak {bcolors.SARI}örn{bcolors.KIRMIZI}({bcolors.SARI} Instagram @cakma_hack3r {bcolors.KIRMIZI}) ''')
         print()
         tgn = input(f'{bcolors.MAVI}Sosyal medya{bcolors.BEYAZ} »{bcolors.PEMBE} ')
 #
