@@ -69,6 +69,8 @@ if secim=="01":
                 f.write(file_content)
 
         save_file_at_dir('/data/data/com.termux/files/home/basit-styling/'+ffortopklsr, 'not.txt', '''Bu araç gelişim aşamasındadır ''')
+        os.system("cp /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/home/basit-styling/"+ffortopklsr)
+
 #......#
 
 #......#
